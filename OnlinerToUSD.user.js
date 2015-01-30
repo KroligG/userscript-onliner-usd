@@ -25,7 +25,7 @@
                 text += " - $" + p2usd;
                 title += "- " + r[2];
             }
-            $(this).text(text).attr("title", title + "���.");
+            $(this).text(text).attr("title", title + "руб.");
         });
     }
 
