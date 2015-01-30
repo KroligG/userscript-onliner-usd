@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Onliner to USD
-// @namespace    http://your.homepage/
-// @version      0.1
-// @description  enter something useful
-// @author       You
+// @namespace    https://github.com/KroligG/userscript-onliner-usd
+// @version      0.1.3
+// @description  Onliner to USD userscript
+// @author       Maksim Golunko
 // @match        http://catalog.onliner.by/*
 // @grant        none
 // ==/UserScript==
